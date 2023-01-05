@@ -4,4 +4,7 @@
 
 > Наш Open Source проект предназначен для объединения людей со всего мира!
 
-_Тут будут контакты_
+
+:calling: 8 800 333 55 22
+
+:envelope_with_arrow: support@test.ru
