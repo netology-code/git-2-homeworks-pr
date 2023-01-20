@@ -6,5 +6,5 @@
 
 
 _Контакты:_
-  _* Тел: 8 800 333 55 22_
-  _* Email: support@test.ru_
+  *_Тел: 8 800 333 55 22_
+  *_Email: support@test.ru_
