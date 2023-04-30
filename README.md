@@ -5,5 +5,5 @@
 > Наш Open Source проект предназначен для объединения людей со всего мира!
 
 ### Контакты 
-<p>Тел: 8 800 333 55 22<br>
-Email: support@test.ru</p>
+Тел: 8 800 333 55 22<br>
+Email: [support@test](mailto:support@test.ru)
