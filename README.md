@@ -7,4 +7,4 @@
 В конец файла требуется вставить контакты компании:
 
 Тел: 8 800 333 55 22
-Email: support@test.ru_
+Email: support@test.ru
