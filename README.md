@@ -6,10 +6,5 @@
 
 
 
-<p>
-  📞 <strong>Телефон:</strong>
-        <a href="tel:+79001234567"><mark>+7 (900) 123-45-67</mark></a>
-  
-  ✉️ <strong>Email:</strong>
-        <a href="mailto:example@mail.com"><mark>example@mail.com</mark></a>
-</p>
+📞 **Телефон:** [+7 (900) 123-45-67](tel:+79001234567)  
+✉️ **Email:** [example@mail.com](mailto:example@mail.com)
