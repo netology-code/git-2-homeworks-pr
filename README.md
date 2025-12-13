@@ -4,4 +4,7 @@
 
 > Наш Open Source проект предназначен для объединения людей со всего мира!
 
-_Тут будут контакты_
+### Контакты
+- Email: support@opensource.example
+- Telegram: @opensource_team
+- GitHub: https://github.com/netology-code
