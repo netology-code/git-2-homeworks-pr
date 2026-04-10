@@ -7,6 +7,6 @@
 _Тут будут контакты_
 
 ## Контакты
-- Email: info@netology.ru
-- Телефон: 8 (800) 100-00-00
+- Тел: 8 800 333 55 22
+- Email: support@test.ru
 - Сайт: https://netology.ru
