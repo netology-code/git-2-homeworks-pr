@@ -4,4 +4,5 @@
 
 > Наш Open Source проект предназначен для объединения людей со всего мира!
 
-_Тут будут контакты_
+## Контакты
+- GitHub: [@malutinanastya93-maker](https://github.com/malutinanastya93-maker)
